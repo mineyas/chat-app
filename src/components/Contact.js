@@ -13,10 +13,6 @@ return <contact className='Contact'>
     <div className='block2'>
          <index className = "status-online"> {}</index>
         <p className = "status-text"> {online ? " Online" : " Offline"}</p>
-        <div className='block3'>
-            <p className='status-text'> I LOVE LEGOSSS </p>
-
-        </div>
     </div>
     </div>
 
