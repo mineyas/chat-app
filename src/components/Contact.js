@@ -17,23 +17,10 @@ return <contact className='Contact'>
             <p className='status-text'> I LOVE LEGOSSS </p>
 
         </div>
-
-
     </div>
     </div>
-
-
-
-
-
-
-
-
 
 </contact>
-
-
-
 
 }
 
